@@ -3,8 +3,6 @@ a pyhton thingymabob to edit the json file for u (i could have made a website fo
 
 ## todo
 
-[ ] relative file paths
-
-[ ] moving/renaming song file for u
-
-[ ] clean up code ye
+- [ ] relative file paths
+- [ ] moving/renaming song file for u
+- [ ] clean up code ye
